@@ -1,4 +1,4 @@
-package ru.сourses.mathematics;
+package ru.courses.mathematics;
 
 public class Degree {
     public static double DegreeOfNumber (String number, String degree){

@@ -1,6 +1,6 @@
-package ru.сourses.main;
+package ru.courses.main;
 
-import ru.сourses.geometry.*;
+import ru.courses.geometry.*;
 
 import java.util.ArrayList;
 

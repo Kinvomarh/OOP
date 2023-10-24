@@ -1,7 +1,4 @@
-package ru.сourses.geometry;
-
-import ru.сourses.geometry.Length;
-import ru.сourses.geometry.Line;
+package ru.courses.geometry;
 
 import java.util.ArrayList;
 

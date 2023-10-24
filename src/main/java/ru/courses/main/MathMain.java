@@ -1,5 +1,5 @@
-package ru.сourses.main;
-import ru.сourses.mathematics.Degree;
+package ru.courses.main;
+import ru.courses.mathematics.Degree;
 
 public class MathMain {
     public static void main(String[] args) {
